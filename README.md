@@ -99,23 +99,6 @@ This project applies mathematical modelling, signal processing, and image proces
 
 ---
 
-## Limitations
-
-- Simplified mathematical models may not fully capture real-world variability  
-- Series approximation is only reliable over limited intervals  
-- Image localisation approach is heuristic and may produce false detections under complex conditions  
-
----
-
-## Future Improvements
-
-- Incorporate real-world transport datasets  
-- Use machine learning for robust number plate detection  
-- Extend models to include additional variables such as weather or road conditions  
-- Improve scalability for real-time data processing  
-
----
-
 ## Author
 
 Developed as part of coursework in Artificial Intelligence and Data Science, focusing on integrating mathematical modelling with data-driven analysis for real-world transport applications.
